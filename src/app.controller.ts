@@ -1,3 +1,4 @@
+// act as a gateway
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 
